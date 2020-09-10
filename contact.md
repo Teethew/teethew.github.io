@@ -3,8 +3,11 @@ title: Contact
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+Links para contato:
+- [Facebook](https://www.facebook.com/thiagoaraujo2015)
+- [Instagram](https://www.instagram.com/bugadao_)
+- [GitHub](https://github.com/Teethew)
+- [LinkedIn](https://www.linkedin.com/in/taraujocrispim/)
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
-
-(Change this by editing `contact.md` file)
+Email para contato:
+taraujocrispim@gmail.com
