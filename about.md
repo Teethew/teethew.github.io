@@ -1,10 +1,8 @@
 ---
-title: About
+title: Sobre
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Meu nome é Thiago Araujo Crispim, sou um apaixonado por tecnologia, e essa paixão me faz querer compartilhar conhecimento e algumas experiências para outros que estão nesse mundo.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+Seja bem vindo ao meu blog!
