@@ -1,4 +1,3 @@
-https://teethew.github.io/
 https://teethew.github.io/?/home
 https://teethew.github.io/?/feed
 https://teethew.github.io/?/login
