@@ -1,0 +1,16 @@
+footer {
+    min-height: 15vh;
+    background-color: #8355e4;
+}
+
+.icoFacebook:hover {
+    opacity: 0.5;
+}
+
+.icoGithub:hover {
+    opacity: 0.5;
+}
+
+.icoLinkedin:hover {
+    opacity: 0.5;
+}

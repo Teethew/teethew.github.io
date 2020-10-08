@@ -1,0 +1,10 @@
+https://teethew.github.io/
+https://teethew.github.io/?/home
+https://teethew.github.io/?/feed
+https://teethew.github.io/?/login
+https://teethew.github.io/?/cadastro
+https://teethew.github.io/?/cadastro-temat
+https://teethew.github.io/?/editar-postagens/
+https://teethew.github.io/?/editar-tema/
+https://teethew.github.io/?/apagar-postagens/
+https://teethew.github.io/?/apagar-tema/
